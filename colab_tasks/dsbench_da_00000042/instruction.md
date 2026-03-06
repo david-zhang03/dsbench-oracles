@@ -1,0 +1,88 @@
+# Data Analysis: 2012 Finals Excel Knowledge Test
+
+## Background
+
+INTRODUCTION 
+Name the relevant Excel function for each of the following.
+
+## Data Files
+
+The data files are available in `/workspace/data/`. Examine the files to understand the structure.
+
+## Questions
+
+Answer the following 50 questions by analyzing the provided data. Each question is in a separate text file in `/workspace/data/`:
+
+- `/workspace/data/question1.txt` through `/workspace/data/question50.txt`
+
+## Output
+
+You must set an `answers` dictionary variable in your notebook with your answers:
+
+```python
+answers = {
+    "question1": "YOUR_ANSWER",  # Question 1
+    "question2": "YOUR_ANSWER",  # Question 2
+    "question3": "YOUR_ANSWER",  # Question 3
+    "question4": "YOUR_ANSWER",  # Question 4
+    "question5": "YOUR_ANSWER",  # Question 5
+    "question6": "YOUR_ANSWER",  # Question 6
+    "question7": "YOUR_ANSWER",  # Question 7
+    "question8": "YOUR_ANSWER",  # Question 8
+    "question9": "YOUR_ANSWER",  # Question 9
+    "question10": "YOUR_ANSWER",  # Question 10
+    "question11": "YOUR_ANSWER",  # Question 11
+    "question12": "YOUR_ANSWER",  # Question 12
+    "question13": "YOUR_ANSWER",  # Question 13
+    "question14": "YOUR_ANSWER",  # Question 14
+    "question15": "YOUR_ANSWER",  # Question 15
+    "question16": "YOUR_ANSWER",  # Question 16
+    "question17": "YOUR_ANSWER",  # Question 17
+    "question18": "YOUR_ANSWER",  # Question 18
+    "question19": "YOUR_ANSWER",  # Question 19
+    "question20": "YOUR_ANSWER",  # Question 20
+    "question21": "YOUR_ANSWER",  # Question 21
+    "question22": "YOUR_ANSWER",  # Question 22
+    "question23": "YOUR_ANSWER",  # Question 23
+    "question24": "YOUR_ANSWER",  # Question 24
+    "question25": "YOUR_ANSWER",  # Question 25
+    "question26": "YOUR_ANSWER",  # Question 26
+    "question27": "YOUR_ANSWER",  # Question 27
+    "question28": "YOUR_ANSWER",  # Question 28
+    "question29": "YOUR_ANSWER",  # Question 29
+    "question30": "YOUR_ANSWER",  # Question 30
+    "question31": "YOUR_ANSWER",  # Question 31
+    "question32": "YOUR_ANSWER",  # Question 32
+    "question33": "YOUR_ANSWER",  # Question 33
+    "question34": "YOUR_ANSWER",  # Question 34
+    "question35": "YOUR_ANSWER",  # Question 35
+    "question36": "YOUR_ANSWER",  # Question 36
+    "question37": "YOUR_ANSWER",  # Question 37
+    "question38": "YOUR_ANSWER",  # Question 38
+    "question39": "YOUR_ANSWER",  # Question 39
+    "question40": "YOUR_ANSWER",  # Question 40
+    "question41": "YOUR_ANSWER",  # Question 41
+    "question42": "YOUR_ANSWER",  # Question 42
+    "question43": "YOUR_ANSWER",  # Question 43
+    "question44": "YOUR_ANSWER",  # Question 44
+    "question45": "YOUR_ANSWER",  # Question 45
+    "question46": "YOUR_ANSWER",  # Question 46
+    "question47": "YOUR_ANSWER",  # Question 47
+    "question48": "YOUR_ANSWER",  # Question 48
+    "question49": "YOUR_ANSWER",  # Question 49
+    "question50": "YOUR_ANSWER",  # Question 50
+}
+```
+
+- For multiple choice questions, use the letter only (e.g., `"D"`)
+- For numeric answers, use the number (e.g., `1661626`)
+- All answers will be compared as strings (case-insensitive for letters)
+
+## Evaluation
+
+- Each question is evaluated independently
+- Your score is the fraction of questions answered correctly
+
+## Available Packages
+
+Python standard library, NumPy, pandas, matplotlib, openpyxl, xlrd
